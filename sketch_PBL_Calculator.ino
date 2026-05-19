@@ -1,8 +1,6 @@
 // Course: Introduction to IoT
 // Description: PBL Arduino Calculator
-// Dawson College - EET
-// Date: 2026/05/19
-// Student: Samuel Namgung 1735112
+
 
 // Libraries
 #include <LiquidCrystal.h> // for the LCD
